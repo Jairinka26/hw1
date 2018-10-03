@@ -10,10 +10,9 @@ public class Main {
         System.out.println(c-a);
         System.out.println(b*c);
         System.out.println((float)a/b);
-
         System.out.println("Hello, Word!");
         String hm="Home work has been done";
         System.out.println(hm);
-
+        System.out.println("New commit");
     }
 }
